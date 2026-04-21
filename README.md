@@ -1,4 +1,4 @@
-# rover-based-manipulator-prototype
+# Rover-Based Manipulator Prototype
 This project is a rover-based manipulator designed and built for a manufacturing and design.
 
 ---
